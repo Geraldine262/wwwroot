@@ -1,3 +1,0 @@
-document.writeln("<script type=\'text/javascript\' src=\'https://s4.cnzz.com/z_stat.php?id=1280013983&web_id=1280013983\'></script>");
-document.writeln("<script type=\'text/javascript\' src=\'https://v4.cnzz.com/z_stat.php?id=1280013985&web_id=1280013985\'></script>");
-document.writeln("<script type=\'text/javascript\' src=\'https://s9.cnzz.com/z_stat.php?id=1280013987&web_id=1280013987\'></script>");
